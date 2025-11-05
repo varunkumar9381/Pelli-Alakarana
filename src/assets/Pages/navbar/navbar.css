@@ -1,0 +1,18 @@
+/* .navbar-nav li a:hover {
+    color:goldenrod !important;
+}
+.navbar-nav li::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: goldenrod;
+    transition: width .3s linear;
+    margin: auto;
+    
+
+}
+
+.navbar-nav li:hover::after,.navbar-nav li:hover::before {
+    width: 100%;
+} */
